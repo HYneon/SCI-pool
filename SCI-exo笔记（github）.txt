@@ -1,0 +1,58 @@
+ Exosomes derived from mesenchymal stem cells (MSCs) have been proven to exhibit great potentials in spinal cord injury (SCI) therapy. However, conventional two-dimensional (2D) culture will inevitably lead to the loss of stemness of MSCs, which substantially limits the therapeutic potency of MSCs exosomes (2D-Exo). Exosomes derived from three-dimensional culture (3D-Exo) possess higher therapeutic efficiency which have wide applications in spinal cord therapy.
+
+ Exosomes derived from mesenchymal stem cells (MSCs) have been proven to exhibit great potentials in spinal cord injury (SCI) therapy. However, conventional two-dimensional (2D) culture will inevitably lead to the loss of stemness of MSCs, which substantially limits the therapeutic potency of MSCs exosomes (2D-Exo). Exosomes derived from three-dimensional
+culture (3D-Exo) possess higher therapeutic efficiency which have wide applications in spinal cord therapy.
+
+ The exosomes derived from 3D culture environment (3D-Exo) have been demonstrated to
+contain proteins and miRNAs that are mainly enriched in energy metabolism, immune regulation, spinal cord development, and neuronal regulation. 10,11 Additionally, 3D-Exo possesses higher amounts of anti-inflammatory and anti-apoptotic factors than 2D culture exosomes (2D-Exo). 12 Therefore, 3D-Exo may hold the advantages of higher therapeutic efficiency, which will show broad potential applications in the treatment of SCI.
+
+Moreover, studies have demonstrated that MSCs cultured in 3D environment possessed enhanced that MSCs cultured in 3D environment possessed enhanced stemness and therapeutic potentials. 20?22 In this study, the stemness of MSCs within GelMA hydrogel was assessed based
+on the protein expression of the classical MSC stemness markers, SOX2, and Nanog. The immunofluorescence results showed that 3D-MSCs were small and uniformly spherical, and
+that the fluorescence intensity of SOX2 was significantly increased (Figure S2A). Western blotting results showed that the expression level of SOX2 in 3D-MSC was significantly higher (3.89-fold) compared with that in 2D-MSC (FigureS2B,C), and Nanog expression showed the similar trend.
+
+The count results of 2D and 3D-Exo subsets showed that the number of exosomes with CD81 + or (and) CD9 + transmembrane proteins were the highest (Figure 2G,H). The fluorescence intensity distribution in different types of exosomes are shown in Figure 2I,J. The fluorescence colocalization statistics showed that 3D-Exo was rich in CD81 + and CD9 + (Figure S3A,B)
+
+There were differences in surface proteins expression between 2D and 3D-Exo, and next
+we will analyze the differences between their contents.In light of the fact that proteins mediate the majority of intracellular activity and intercellular communication, protein mass spectrometry analysis is invaluable for elucidating cellular states and cellular communication patterns. 
+To further explore the molecular mechanism of proteins in MSC-Exo, differential proteins of 2D and 3D-Exo samples were determined using quantitative proteomics. The most significant differentially expressed proteins (DEPs) were presented in a heatmap (Figure 3A). The results showed that 19 proteins in 3D-Exo were up-regulated and 33 proteins were downregulated compared with 2D-Exo. Further differential analysis was performed on the top nine upregulated and downregulated proteins, respectively.  Briefly, most upregulated proteins are involved in remodeling the central nervous system (CNS). For instance, among the upregulated proteins, B2RYM3 (Interalpha trypsin inhibitor, I¦ÁI) is a complex containing proteoglycan bikunin and expressed specifically in neurons and astrocytes and may also play a crucial role in neural plasticity and CNS development. 31 Among the downregulated proteins, A0A0G2JSK5 (integrin beta) is an important adhesion molecule on the cell surface that participates in CNS development, synaptic regeneration,inflammatory response, and regulation of microglial function. Specific blocking of integrin beta protects the ischemic brain tissue.  Furthermore, gene ontology (GO) analysis of the DEPs revealed that the DEPs were significantly enriched in energy metabolism and immune regulation processes
+ On the basis of the Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis, a great number of pathways were involved in neuroinflammation and apoptosis (Figure S9). Among these pathways, the phospholipase D signaling pathway is critical for axonal growth, synapse development and plasticity.
+
+We performed transcriptome sequencing and differential analysis of the two types of exosomes using the limma R package.  a total of 396 differentially expressed miRNAs were identified (376 upregulated and 20 downregulated in the 3D-Exo).  The target genes of these miRNAs were predicted using RNAhybrid, miRbase and TargetScan, and the intersection set of the results obtained from these 3 software. candidate target genes were analyzed and constructed as a heatmap. Further analysis of GO functional enrichment showed that the predicted target genes were significantly enriched in cell signaling, cell stress, and immune responses, including positive regulation of biological processes, cell proliferation, cell part, and catalytic activity.
+Next, the KEGG enrichment analysis was used to analyze the related differential regulatory genes, and the top 29 pathways were identified. Among these, many pathways are enriched in the nervous system, energy metabolism, signal transfer, cell growth, and death as well as cellular community eukaryotes. These pathways mainly involve the development and growth of
+the nervous system, regulation of neuroinflammation and regulation of cell proliferation
+
+
+We investigated the role of DIM in hucMSC modification for wound healing. We demonstrated that DIM induces exosomal Wnt11 autocrine signalling to activate ¦Â-catenin signalling and reinforces the stemness of hucMSCs. DIM-hucMSCs showed a desirable repairing ability in a deep second-degree burn injury rat model.
+
+
+DIM has been reported to regulate stem cell function by inducing the expression of stemness transcription factors.
+
+DIM can dose-dependently induce the expression of Oct4, Nanog, Sox2, and Sall4 in hucMSCs and that 50 ¦ÌM of DIM exerts the
+strongest inducing effects on the expression of these factors.
+hucMSCs are more tolerant to DIM than gastric cancer cells.
+
+The secretion of bioactive molecules is the main mechanism underlying the therapeutic effects of MSCs in tissue injury. We also evaluated the paracrine effects of DIM-hucMSCs and observed that the expression of multiple factors, including GM-CSF, IL-6, MCP-1, and VEGF, was considerably increased in DIM-hucMSCs. In summary, DIM enhanced the stemness of hucMSCs.
+
+The Wnt/¦Â-catenin signalling pathway is critically involved in regulating cell stemness. To further verify the activation of Wnt/¦Â-catenin signalling and its role in regulating the stemness of hucMSCs, we administered ICG001, a selective inhibitor of ¦Â-catenin¨CCREB-binding protein interaction, to block ¦Â-catenin activation, which did not affect the DIM-hucMSC cell viabilty under the condition of 50 ¦ÌM of DIM, 48h treatment.  The inhibition of ¦Â-catenin
+reversed the DIM-induced enhancement of stemness. Moreover, 50 ¦ÌM of DIM upregulated the expression of ¦Â-catenin and its downstream target genes (cyclin
+D3 and CD44), which were also abrogated by a simultaneous treatment with ICG001. 
+
+ICG001 significantly reduced the promoting role of DIM in adipogenesis and osteogenesis and expression of adiponectin and ALP in hucMSCs 
+
+These results indicate that DIM enhanced the stemness of hucMSCs by activating Wnt/¦Â-catenin signalling.
+
+We subsequently determined the main factors responsible for DIM-induced ¦Â-catenin activation.
+
+The DIM treatment modified the expression of several Wnt molecules, of which Wnt11 showed the most significant increase. The expression of Wnt4, which markedly shares its sequence and activity with Wnt11, also slightly increased after the DIM treatment. Moreover, DIM dose-dependantly increased the Wnt11 expression.  To substantiate the role of Wnt11 in DIM-hucMSCs, we knocked down Wnt11 by using shRNA and verified the efficiency by using both mRNA and protein levels. Wnt11 knockdown led to a decreased expression of Oct4, Nanog, Sall4, and ¦Â-catenin, suggesting that Wnt11 acts as an upstream regulator of the canonical ¦Â-catenin signaling pathway. Compared with the control knockdown cells(shGFP-hucMSCs), the Wnt11 knockdown hucMSCs(shWnt11-hucMSCs) treated with 50 ¦ÌM of DIM for 48h showed a reduced expression of the stemness transcription factors.
+
+We previously reported that exosomes mediated wound healing through Wnt4 transportation. Considering the low solubility of Wnt11, we determined whether DIM induced Wnt11 expression in exosomes. 
+
+Both DMSO-ex and DIM-ex were 100-nm spherical vesicles; had a comparable particle number; and expressed CD9, CD63, and CD81. Exosomes derived from DIM-hucMSCs showed an increased expression of Wnt11, indicating that the DIM treatment affected the content of hucMSC-derived exosomes. We subsequently compared the expression of Wnt11 in exosomes and an exosome-free CdM (ex-free CdM) by using ELISA. DIM promoted Wnt11 secretion in exosomes.
+These results suggest that DIM induce Wnt11 expression in exosomes in an autocrine manner.
+
+The loss of stemness, such as ageing, may cause a declined paracrine of VEGF, placental growth factor, and hepatocyte growth factor in stem or progenitor cells and an attenuation of their regenerative potential in cardiovascular diseases and osteoarthritis 
+
+Wnt proteins are divided into two classes according to their biological activities. The Wnt1/Wg class includes Wnt1, Wnt3, Wnt3a, and Wnt8, which
+represent the canonical Wnts activating the Wnt/¦Â-catenin pathway; the Wnt5a class includes Wnt4, Wnt5a, Wnt5b, and Wnt11 that represent the noncanonical Wnts activating the Wnt/calcium and Wnt/JNK (PCP) pathways [37, 45]. Kestler et al. demonstrate that both canonical and noncanonical Wnts have the potential to activate all the pathways
+
+Exosomes are bioactive vesicles released by multiple cell types into the extracellular space. Exosomes act as transporters in cell¨Ccell communication to deliver the message from their original cells to the recipient cells. The contents in exosomes include lipids, nucleic acids (DNA, mRNA, miRNA, and noncoding RNAs) and active proteins. Wnt11 is a low soluble molecule, which requires post-translational modifications. Wnt is transferred by binding to the exosomal protein and exosomes are suggested as carriers for Wnt secretion and extracellular traveling [56, 57]. Wnts cannot be detected in exosome-free conditioned media of either mammalian or Drosophila cells. 
